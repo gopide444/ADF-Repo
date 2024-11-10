@@ -1,0 +1,9 @@
+{
+	"name": "ADF4GitHub",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f0ff7fa5-b055-4dc8-b413-f83ba1d6e00f",
+		"tenantId": "316bb836-d6d7-4023-bc96-b947683ef70f"
+	}
+}
